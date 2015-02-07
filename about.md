@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Tina Moser
 
-### More Information
+Tina Moser does administrative work at a non-profit that serves underprivileged children with disabilities.
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Education
 
-### Contact me
+## University of Illinois at Urbana-Champaign
+Bachelors of Art, Communication 2010
 
-[email@domain.com](mailto:email@domain.com)
+##### Activities and Societies
+ - Lambda Pi Eta Honors Society
+ - Illini Navigators
+ - Illini Equestrians
