@@ -9,7 +9,7 @@ name: Tina Moser
 description: Office Manager at Shining Hope Farms
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://raw.githubusercontent.com/tinamoser/tinamoser.github.io/master/images/tina.JPG
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: tinamoser
+  github:
   instagram: 
   linkedin: thetinamoser
   pinterest: 
