@@ -4,4 +4,4 @@ title: Hello World
 published: true
 ---
 
-More coming soon...!
+More coming soon...
