@@ -5,4 +5,4 @@ published: true
 ---
 
 No More for now...
-[test](../my_collection/test.md)
+[test](../_my_collection/test.md)
