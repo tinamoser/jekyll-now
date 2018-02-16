@@ -52,6 +52,7 @@ relative_links:
 collections:
   my_collection:
     output: true
+    permalink: /my_collection/:path/
   
 defaults:
   - scope:
