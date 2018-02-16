@@ -48,9 +48,10 @@ baseurl: ""
 relative_links:
   enabled:     true
   collections: true
-  
+
 collections:
-  - my_collection
+  my_collection:
+    output: true
   
 defaults:
   - scope:
